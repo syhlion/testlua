@@ -1,3 +1,3 @@
 # testlua
 
-sample [gopher-lua] code
+sample [gopher-lua](https://github.com/yuin/gopher-lua) code
